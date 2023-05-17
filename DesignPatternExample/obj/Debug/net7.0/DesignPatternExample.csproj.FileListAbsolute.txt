@@ -1,0 +1,30 @@
+C:\Users\Admin\Desktop\Project\DesignPatternExample\DesignPatternExample\obj\Debug\net7.0\DesignPatternExample.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Project\DesignPatternExample\DesignPatternExample\obj\Debug\net7.0\DesignPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Project\DesignPatternExample\DesignPatternExample\obj\Debug\net7.0\DesignPatternExample.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Project\DesignPatternExample\DesignPatternExample\obj\Debug\net7.0\DesignPatternExample.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Project\DesignPatternExample\DesignPatternExample\obj\Debug\net7.0\DesignPatternExample.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Project\DesignPatternExample\DesignPatternExample\bin\Debug\net7.0\DesignPatternExample.exe
+C:\Users\Admin\Desktop\Project\DesignPatternExample\DesignPatternExample\bin\Debug\net7.0\DesignPatternExample.deps.json
+C:\Users\Admin\Desktop\Project\DesignPatternExample\DesignPatternExample\bin\Debug\net7.0\DesignPatternExample.runtimeconfig.json
+C:\Users\Admin\Desktop\Project\DesignPatternExample\DesignPatternExample\bin\Debug\net7.0\DesignPatternExample.dll
+C:\Users\Admin\Desktop\Project\DesignPatternExample\DesignPatternExample\bin\Debug\net7.0\DesignPatternExample.pdb
+C:\Users\Admin\Desktop\Project\DesignPatternExample\DesignPatternExample\obj\Debug\net7.0\DesignPatternExample.dll
+C:\Users\Admin\Desktop\Project\DesignPatternExample\DesignPatternExample\obj\Debug\net7.0\refint\DesignPatternExample.dll
+C:\Users\Admin\Desktop\Project\DesignPatternExample\DesignPatternExample\obj\Debug\net7.0\DesignPatternExample.pdb
+C:\Users\Admin\Desktop\Project\DesignPatternExample\DesignPatternExample\obj\Debug\net7.0\DesignPatternExample.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Project\DesignPatternExample\DesignPatternExample\obj\Debug\net7.0\ref\DesignPatternExample.dll
+C:\Users\Tai Dep Trai\Desktop\DesignPatternExample\DesignPatternExample\DesignPatternExample\obj\Debug\net7.0\DesignPatternExample.csproj.AssemblyReference.cache
+C:\Users\Tai Dep Trai\Desktop\DesignPatternExample\DesignPatternExample\DesignPatternExample\obj\Debug\net7.0\DesignPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tai Dep Trai\Desktop\DesignPatternExample\DesignPatternExample\DesignPatternExample\obj\Debug\net7.0\DesignPatternExample.AssemblyInfoInputs.cache
+C:\Users\Tai Dep Trai\Desktop\DesignPatternExample\DesignPatternExample\DesignPatternExample\obj\Debug\net7.0\DesignPatternExample.AssemblyInfo.cs
+C:\Users\Tai Dep Trai\Desktop\DesignPatternExample\DesignPatternExample\DesignPatternExample\obj\Debug\net7.0\DesignPatternExample.csproj.CoreCompileInputs.cache
+C:\Users\Tai Dep Trai\Desktop\DesignPatternExample\DesignPatternExample\DesignPatternExample\obj\Debug\net7.0\DesignPatternExample.dll
+C:\Users\Tai Dep Trai\Desktop\DesignPatternExample\DesignPatternExample\DesignPatternExample\obj\Debug\net7.0\refint\DesignPatternExample.dll
+C:\Users\Tai Dep Trai\Desktop\DesignPatternExample\DesignPatternExample\DesignPatternExample\obj\Debug\net7.0\DesignPatternExample.pdb
+C:\Users\Tai Dep Trai\Desktop\DesignPatternExample\DesignPatternExample\DesignPatternExample\bin\Debug\net7.0\DesignPatternExample.exe
+C:\Users\Tai Dep Trai\Desktop\DesignPatternExample\DesignPatternExample\DesignPatternExample\bin\Debug\net7.0\DesignPatternExample.deps.json
+C:\Users\Tai Dep Trai\Desktop\DesignPatternExample\DesignPatternExample\DesignPatternExample\bin\Debug\net7.0\DesignPatternExample.runtimeconfig.json
+C:\Users\Tai Dep Trai\Desktop\DesignPatternExample\DesignPatternExample\DesignPatternExample\bin\Debug\net7.0\DesignPatternExample.dll
+C:\Users\Tai Dep Trai\Desktop\DesignPatternExample\DesignPatternExample\DesignPatternExample\bin\Debug\net7.0\DesignPatternExample.pdb
+C:\Users\Tai Dep Trai\Desktop\DesignPatternExample\DesignPatternExample\DesignPatternExample\obj\Debug\net7.0\DesignPatternExample.genruntimeconfig.cache
+C:\Users\Tai Dep Trai\Desktop\DesignPatternExample\DesignPatternExample\DesignPatternExample\obj\Debug\net7.0\ref\DesignPatternExample.dll
